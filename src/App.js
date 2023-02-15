@@ -10,7 +10,7 @@ function GroundhogDayCounter() {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      const groundhogDay = new Date("February 2, 2023 06:20:00").getTime();
+      const groundhogDay = new Date("February 2, 2024 06:20:00").getTime();
       const now = new Date().getTime();
       const distance = groundhogDay - now;
 
