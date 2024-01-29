@@ -34,7 +34,7 @@ function GroundhogDayCounter() {
       <header className="App-header">
         <img src={pig} className="App-logo" alt="logo" />
         <div>
-          <h1>Countdown to Groundhog Day:</h1>
+          <h1>Countdown to Mexico!:</h1>
           <p1>
             {days} days {hours} hours {minutes} minutes {seconds} seconds
           </p1>
