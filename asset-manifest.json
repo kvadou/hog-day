@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/hog-day/static/css/main.1ec1e7dd.css",
-    "main.js": "/hog-day/static/js/main.e6560e6d.js",
+    "main.js": "/hog-day/static/js/main.bc8cbcc0.js",
     "static/js/787.e749174a.chunk.js": "/hog-day/static/js/787.e749174a.chunk.js",
     "static/media/pig.gif": "/hog-day/static/media/pig.19836e94fef6991a91c2.gif",
     "index.html": "/hog-day/index.html",
     "main.1ec1e7dd.css.map": "/hog-day/static/css/main.1ec1e7dd.css.map",
-    "main.e6560e6d.js.map": "/hog-day/static/js/main.e6560e6d.js.map",
+    "main.bc8cbcc0.js.map": "/hog-day/static/js/main.bc8cbcc0.js.map",
     "787.e749174a.chunk.js.map": "/hog-day/static/js/787.e749174a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ec1e7dd.css",
-    "static/js/main.e6560e6d.js"
+    "static/js/main.bc8cbcc0.js"
   ]
 }
